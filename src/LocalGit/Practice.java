@@ -12,4 +12,7 @@ public class Practice {
 
 	}
 
+	public static void methodZ() {
+		System.out.println("================");
+	}
 }
